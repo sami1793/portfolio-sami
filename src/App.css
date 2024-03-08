@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --main-color: #ff8686;
+  --main-color-strong: #ff6666;
+  font-family: "Arima", cursive;
+  color: var(--main-color-text);
+}
